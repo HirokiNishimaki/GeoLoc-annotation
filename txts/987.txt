@@ -1,1 +1,1 @@
-24, CASA, MA, SPEED, 20, NES
+24, CASA, MA, SPEED, 20, NES, Casa Magazines
