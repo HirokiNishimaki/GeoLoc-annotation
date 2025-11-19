@@ -1,0 +1,1 @@
+1024, Goog, 200, minute, tom, facial, QUIBL

@@ -1,0 +1,1 @@
+24, CASA, MA, SPEED, 20, NES
