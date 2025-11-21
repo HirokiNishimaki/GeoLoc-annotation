@@ -1,1 +1,1 @@
-NOTE, A, BLO, 24, 時間, 営業, S, SANKOUEN CHINA CAFE＆DINING
+24, 時間, 営業

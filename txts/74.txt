@@ -1,1 +1,1 @@
-Ma, 202, Congle, BANK, zam
+Ma, BANK, zam

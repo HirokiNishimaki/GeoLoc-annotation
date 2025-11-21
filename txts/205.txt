@@ -1,1 +1,1 @@
-ep, SHO, CAFE
+SHO, CAFE

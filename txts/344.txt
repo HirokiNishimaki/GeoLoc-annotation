@@ -1,1 +1,1 @@
-235, WestEno, PRAT, 02024, 2.35, 2014, Googl, 235 West End Avenue
+235, WestEno, PRAT, 2.35

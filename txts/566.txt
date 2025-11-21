@@ -1,1 +1,1 @@
-D, 0102, Googl, STO
+STO
