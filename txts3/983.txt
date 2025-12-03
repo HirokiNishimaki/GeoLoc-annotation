@@ -1,0 +1,1 @@
+40, manhattan, mini, storage, manhattan, min, storage

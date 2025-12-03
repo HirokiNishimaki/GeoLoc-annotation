@@ -1,0 +1,1 @@
+EXIT, 12, E, 61, St, EXIT, 14, EAST, 25, Ed, Koch, E, 96, St, EXIT, Queensboro, Br, ONLY, 2, MILES

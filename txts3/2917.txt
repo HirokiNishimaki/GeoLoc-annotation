@@ -1,0 +1,1 @@
+EXIT, B, E, 34, St, 495, Midtown, Tun, 3/4, MILE, PASSENGER, CARS, ONLY, EXIT, 7, E, 20, E, 23, St, ALL, TRUCKS
