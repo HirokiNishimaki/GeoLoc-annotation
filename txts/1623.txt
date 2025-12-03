@@ -1,1 +1,0 @@
-OPEN, BULK, BILLING, 7, DAYS, MEDICAL, PRACTICE, Euston, Hi, FAMILY, PR, Everton Hills Family Practice
